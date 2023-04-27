@@ -206,7 +206,8 @@ Another key component of the physical washing system is the motor mount. As ment
 
 The initial plan for the stand that would hold the bucket up was to 3D print. With the design having a diameter right above 9 inches, an industrial size printer would have been needed to perform the print. Then considering a new way to print smaller pieces and glue them together, the cost and time to do so was still not reasonable. The final solution was to laser cut 4 (dimensions) pieces, 1 base piece that was (dimensions) with a circle cut out in the middle, and 8 (dimensions) to create legs so that the bucket would be lifted. The circle cut out of the bottom and the legs being added so the bucket was 4 inches off the surface, was to supply room for the motor to be mounted. These components were laser cut from a 11.5 x 23.5 x .25 inch thick piece of wood. When laser cut, divots were added to the edges of the components to help them be glued together with more ease and stability. Gorilla wood glue was used to hold the pieces together.
  
-!!!!!PICTURE OF PEICES LASER CUT WITH LABELED DIMENSIONS!!!!!
+<img src="Side dimensions.JPG" height="200"> <img src="Bottom dimensions.JPG" height="200"> <img src="Leg dimensions.JPG" height="200">
+
 
 <img src="3D Stand top view.JPG" height="300"> <img src="3D Stand bottom view.JPG" height="300">
 
